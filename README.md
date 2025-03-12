@@ -1,6 +1,6 @@
 # Hi there, I'm Yohan Nanayakkara! 👋
 
-## 💻 Computer Science Undergraduate | Full-Stack Developer
+## 💻 Computer Science Undergraduate | Full-Stack Developer | DevOps Enthusiast
 
 I'm a passionate Computer Science undergraduate at **Plymouth University** with a strong foundation in **MERN Stack development**, **object-oriented programming (OOP)**, **data structures**, and **algorithms**. I love designing and implementing **scalable, efficient, and maintainable** software solutions.
 
