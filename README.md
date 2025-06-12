@@ -8,7 +8,7 @@ I'm a passionate Computer Science undergraduate at **Plymouth University** with 
 
 ### 🚀 Technologies & Skills:
 
-- **Full-Stack Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), PHP
+- **Full-Stack Development:** MEAN Stack (MongoDB, Express.js, Angular.js, Node.js), PHP
 - **Programming Languages:** JavaScript, Python, C, HTML, CSS
 - **Databases:** MongoDB, Firebase, Cloud Firestore, NoSQL
 - **Cloud & DevOps:** Docker, Microsoft Azure
