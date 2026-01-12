@@ -1,16 +1,16 @@
 # Hi there, I'm Yohan Nanayakkara! 👋
 
-## 💻 Computer Science Undergraduate | Full-Stack Developer | DevOps Enthusiast
+## 💻 Computer Science Graduate | Associate Software Developer | DevOps Enthusiast
 
-I'm a passionate Computer Science undergraduate at **Plymouth University** with a strong foundation in **MEAN Stack development**, **object-oriented programming (OOP)**, **data structures**, and **algorithms**. I love designing and implementing **scalable, efficient, and maintainable** software solutions.
+I'm a passionate Computer Science graduate at **Plymouth University** with a strong foundation in **Angular**, **.NET**, **MEAN Stack development**, **object-oriented programming (OOP)**, **data structures**, and **algorithms**. I love designing and implementing **scalable, efficient, and maintainable** software solutions.
 
 ---
 
 ### 🚀 Technologies & Skills:
 
-- **Full-Stack Development:** MEAN Stack (MongoDB, Express.js, Angular, Node.js), PHP
-- **Programming Languages:** JavaScript, Python, C, HTML, CSS
-- **Databases:** MongoDB, Firebase, Cloud Firestore, NoSQL
+- **Full-Stack Development:** Angular, .NET, MEAN Stack (MongoDB, Express.js, Angular, Node.js), PHP
+- **Programming Languages:** C#, JavaScript, Python, C, HTML, CSS
+- **Databases:** MongoDB, Firebase, MySQL, NoSQL
 - **Cloud & DevOps:** Docker, Microsoft Azure
 - **Testing & Deployment:** GitHub
 
