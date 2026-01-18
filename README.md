@@ -1,49 +1,84 @@
-# Hi there, I'm Yohan Nanayakkara! 👋
+# Hi there, I'm Yohan Nanayakkara 👋
 
-## 💻 Computer Science Graduate | Associate Software Developer | DevOps Enthusiast
+## 💻 Associate Software Engineer | Full Stack (Angular & .NET) | DevOps Enthusiast
 
-I'm a passionate Computer Science graduate at **Plymouth University** with a strong foundation in **Angular**, **.NET**, **MEAN Stack development**, **object-oriented programming (OOP)**, **data structures**, and **algorithms**. I love designing and implementing **scalable, efficient, and maintainable** software solutions.
+I’m a Full-Stack Software Engineer with hands-on industry experience building and maintaining **production-grade web applications** using **Angular** and **ASP.NET Core Web API (.NET 7)**. I currently work on **enterprise systems, CMS platforms, ticketing systems, and tournament/event management solutions** used in live environments.
+
+I hold a **BSc (Hons) in Computer Science from the University of Plymouth, UK**, and combine a solid technical foundation with real-world industry experience. I enjoy working on scalable backend integrations, clean UI development, and reliable systems within Agile teams.
 
 ---
 
-### 🚀 Technologies & Skills:
+## 🚀 Technologies & Skills
 
-- **Full-Stack Development:** Angular, .NET, MEAN Stack (MongoDB, Express.js, Angular, Node.js), PHP
-- **Programming Languages:** C#, JavaScript, Python, C, HTML, CSS
-- **Databases:** MongoDB, Firebase, MySQL, NoSQL
-- **Cloud & DevOps:** Docker, Microsoft Azure
-- **Testing & Deployment:** GitHub
+### 🔹 Frontend
+- Angular (v18/19)
+- TypeScript
+- SCSS
+- RxJS
+- PrimeNG, Angular Material, Tailwind CSS
+- Reactive Forms
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannana&label=Profile%20views&color=0e75b6&style=flat" alt="yohannana" /> </p>
+### 🔹 Backend
+- ASP.NET Core Web API (.NET 7)
+- Node.js
+- RESTful API Design
 
-<h3 align="left">Connect with me:</h3>
+### 🔹 Databases
+- MySQL
+- MongoDB
+- Firebase
+
+### 🔹 DevOps & Cloud
+- Docker
+- Terraform
+- Azure DevOps
+- CI/CD Pipelines
+- Cloud Deployments
+
+### 🔹 Programming Languages
+- C#
+- TypeScript / JavaScript
+- Python
+
+---
+
 <p align="left">
-<a href="https://www.linkedin.com/in/yohan-nanayakkara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yohan-nanayakkara/" height="30" width="40" /></a>
- <p> 📧 Email: yohan.nana16@gmail.com</p>
+  <img src="https://komarev.com/ghpvc/?username=yohannana&label=Profile%20views&color=0e75b6&style=flat" alt="yohannana" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yohan-nanayakkara/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+</p>
+
+📧 Email: **yohan.nana16@gmail.com**
+
+---
+
+## 🛠 Languages and Tools
 
 <p align="left">  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-   </p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohannana&show_icons=true&locale=en&layout=compact" alt="yohannana" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannana&show_icons=true&locale=en" alt="YohanNana" /></p>
 ---
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohannana&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannana&show_icons=true&locale=en" />
+</p>
