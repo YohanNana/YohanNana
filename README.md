@@ -2,7 +2,7 @@
 
 ## 💻 Associate Software Engineer | Full Stack (Angular & .NET) | DevOps Enthusiast
 
-I’m a Full-Stack Software Engineer with hands-on industry experience building and maintaining **production-grade web applications** using **Angular** and **ASP.NET Core Web API (.NET 7)**. I currently work on **enterprise systems, CMS platforms, ticketing systems, and tournament/event management solutions** used in live environments.
+I’m a Full-Stack Software Engineer with hands-on industry experience building and maintaining **production-grade web applications** using **Angular** and **ASP.NET Core Web API**. I currently work on **enterprise systems, CMS platforms, ticketing systems, and tournament/event management solutions** used in live environments.
 
 I hold a **BSc (Hons) in Computer Science from the University of Plymouth, UK**, and combine a solid technical foundation with real-world industry experience. I enjoy working on scalable backend integrations, clean UI development, and reliable systems within Agile teams.
 
@@ -11,7 +11,7 @@ I hold a **BSc (Hons) in Computer Science from the University of Plymouth, UK**,
 ## 🚀 Technologies & Skills
 
 ### 🔹 Frontend
-- Angular (v18/19)
+- Angular
 - TypeScript
 - SCSS
 - RxJS
@@ -19,7 +19,7 @@ I hold a **BSc (Hons) in Computer Science from the University of Plymouth, UK**,
 - Reactive Forms
 
 ### 🔹 Backend
-- ASP.NET Core Web API (.NET 7)
+- ASP.NET Core Web API
 - Node.js
 - RESTful API Design
 
