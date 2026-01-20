@@ -4,7 +4,7 @@
 
 I’m a Full-Stack Software Engineer with hands-on industry experience building and maintaining **production-grade web applications** using **Angular** and **ASP.NET Core Web API**. I currently work on **enterprise systems, CMS platforms, ticketing systems, and tournament/event management solutions** used in live environments.
 
-I hold a **BSc (Hons) in Computer Science from the University of Plymouth, UK**, and combine a solid technical foundation with real-world industry experience. I enjoy working on scalable backend integrations, clean UI development, and reliable systems within Agile teams.
+I hold a **BSc (Hons) in Computer Science with Second Class Upper Division from the University of Plymouth, UK**, and combine a solid technical foundation with real-world industry experience. I enjoy working on scalable backend integrations, clean UI development, and reliable systems within Agile teams.
 
 ---
 
@@ -68,11 +68,7 @@ I hold a **BSc (Hons) in Computer Science from the University of Plymouth, UK**,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-  
-  <!-- UI Libraries -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40" height="40"/>
   
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
