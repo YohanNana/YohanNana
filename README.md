@@ -1,6 +1,6 @@
 # Hi there, I'm Yohan Nanayakkara 👋
 
-## 💻 Associate Software Engineer | Full Stack (Angular & .NET) | DevOps Enthusiast
+## 💻 Software Engineer | Full Stack (Angular & .NET) | DevOps Enthusiast
 
 I’m a Full-Stack Software Engineer with hands-on industry experience building and maintaining **production-grade web applications** using **Angular** and **ASP.NET Core Web API**. I currently work on **enterprise systems, CMS platforms, ticketing systems, and tournament/event management solutions** used in live environments.
 
